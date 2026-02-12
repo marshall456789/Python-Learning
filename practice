@@ -1,0 +1,13 @@
+# These lines have errors. Fix them to be valid AND follow PEP 8:
+# 1st_name = "Taylor"
+# user-age = 21
+# class = "Computer Science"
+# My Score = 100
+
+# YOUR FIXED CODE HERE:
+first_name = "Taylor"
+user_age = 21
+course_name = "Computer Science"  # 'class' is a keyword
+my_score = 100
+
+print(first_name, user_age, course_name, my_score)
